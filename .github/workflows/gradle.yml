@@ -15,8 +15,8 @@ on:
 env:
   S3_BUCKET_NAME: finalzzal
 #   RESOURCE_PATH: ./src/main/resources/application.properties
-  CODE_DEPLOY_APPLICATION_NAME: yongwookcode-deploy
-  CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: yongwook-server
+  CODE_DEPLOY_APPLICATION_NAME: final-code-deploy
+  CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: final-server
 
 jobs:
   build:
