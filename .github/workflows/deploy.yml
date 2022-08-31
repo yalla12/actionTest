@@ -13,7 +13,7 @@ on:
       - main
 
 env:
-  S3_BUCKET_NAME: tiltil
+  S3_BUCKET_NAME: finalzzal
   RESOURCE_PATH: ./src/main/resources/application.yaml
   CODE_DEPLOY_APPLICATION_NAME: tiltil-code-deploy
   CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: tiltil-server
